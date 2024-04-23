@@ -28,6 +28,6 @@ class bangunDatar {
 
 int main () {
 	bangundatar pp; // deklarasi objek pp dari class bangunDatar
-
+	pp.input();
 
 }
